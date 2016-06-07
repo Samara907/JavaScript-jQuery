@@ -41,6 +41,7 @@
     alert() 사용자에에 특정 정보를 팝업
     document.write() body 영역에 HTML 태그 정보를 출력
     console.log 전문 디버깅 함수 특정 변수 값 확인
+    window.promp() 사용자로부터 값을 입력 받음
     
     변수 종류
     전역변수 전역에서 사용하는 데이터를 담는 변수 어디서든 접근 가능
