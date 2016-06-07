@@ -62,3 +62,19 @@
     var a - true+"10" = "true10"
     논리 형 + 숫자 형 = 숫자 형
     var a = true+10 = 11
+    
+    명시적 형변환 종류
+    01. 문자를 숫자로 형변환하는 방법
+    정수 형
+    parseInt()
+    Number()
+    실수 형
+    parseFloat()
+    Number()
+    02. 숫자를 문자로 형변환하는 방법
+    일반 문자 형
+    String()
+    16진수 문자 형
+    Number.toString()
+    실수 문자 형
+    Number.toFixed()
