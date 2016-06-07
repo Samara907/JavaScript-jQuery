@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script>
+        /*
+         예제 : 맴버 변수를 구분해주세요.
+
+         */
+
+        function MyClass() {
+            this.name = "멤버변수";
+        }
+
+
+        MyClass.prototype.showName = function() {
+            document.write("name = ", this.name);
+        }
+        var objClass = new MyClass();
+        objClass.showName();
+    </script>
+</head>
+<body>
+
+</body>
+</html>
