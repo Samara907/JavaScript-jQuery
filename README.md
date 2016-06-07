@@ -37,3 +37,7 @@
     var class = "test1";  //  error
     var for "test2";  //  error
     var if = "test3"; // error
+    
+    alert() 사용자에에 특정 정보를 팝업
+    document.write() body 영역에 HTML 태그 정보를 출력
+    console.log 전문 디버깅 함수 특정 변수 값 확인
